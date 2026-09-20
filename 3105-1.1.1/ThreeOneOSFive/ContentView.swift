@@ -351,8 +351,8 @@ private struct DashboardView: View {
     private var contactPanel: some View {
         VStack(spacing: 12) {
             contactButton(title: "Discord", subtitle: "Join my Discord Developer Server", icon: "bubble.left.fill", tint: accent, url: "https://discord.gg/aBQyPTbpgc")
-            contactButton(title: "WhatsApp", subtitle: "Contact me", icon: "message.fill", tint: accent, url: "https://wa.me/584124788825")
-            contactButton(title: "PEGASO", subtitle: "DUEÑO", icon: "person.fill", tint: accent, url: "https://t.me/desconocido_1412")
+            contactButton(title: "WhatsApp", subtitle: "Contact me", icon: "message.fill", tint: accent, url: "https://wa.me/+573024765036")
+            contactButton(title: "GIAN", subtitle: "DUEÑO", icon: "person.fill", tint: accent, url: "https://chat.whatsapp.com/DmZPK4BUkAd1HRCuhKHVfW")
         }
     }
 
